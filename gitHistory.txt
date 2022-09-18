@@ -26,4 +26,24 @@ Author: Andrii Yakymenko <yakyandriy@gmail.com>
 Date:   Sun Sep 18 15:18:35 2022 +0900
 
     Update Readme.txt after last commit with git objects and it content
+
  
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         9/18/2022   3:04 PM                4b
+d-----         9/18/2022   3:13 PM                53
+d-----         9/18/2022   3:25 PM                56
+d-----         9/18/2022   3:25 PM                6f
+d-----         9/18/2022   3:13 PM                78
+d-----         9/18/2022   3:25 PM                98
+d-----         9/18/2022   3:17 PM                9a
+d-----         9/18/2022   3:18 PM                d7
+d-----         9/18/2022   3:18 PM                e4
+d-----         9/18/2022   2:59 PM                info
+d-----         9/18/2022   2:59 PM                pack
+
+commit ba4de82652bcd52400776297ce795440466e5c78 (HEAD -> master)
+Author: Andrii Yakymenko <yakyandriy@gmail.com>
+Date:   Sun Sep 18 15:39:00 2022 +0900
+
+    Updated gitHistory. Added commit hstory
